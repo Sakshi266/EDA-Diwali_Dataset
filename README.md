@@ -84,4 +84,4 @@ Skills: Python, SQL, Data Analysis, Data Visualization
 
 ---
 
-⭐ If you find this project useful, don’t forget to give it a star!
+
